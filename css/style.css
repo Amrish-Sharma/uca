@@ -1,0 +1,20 @@
+body {
+  background-color:whitesmoke;
+}
+
+p{
+
+    margin: 0 auto;
+    text-align: center;
+    border: solid;
+}
+
+h1{
+    margin: auto;
+    text-align: center;
+}
+
+.textbox{
+margin: 2em 40em 2em ;
+
+}
